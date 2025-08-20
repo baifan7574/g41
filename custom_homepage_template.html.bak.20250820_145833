@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head><link href=".\custom_homepage_template.html" rel="canonical"/>
+<link href=".\custom_homepage_template.html" rel="canonical"/>
+<meta charset="utf-8"/>
+<title>Gentleman’s Frame</title>
+<meta content="1566517c032d1bfceb9f15f24232b6f9" name="monetag"/>
+<link href="lightbox.min.css" rel="stylesheet"/>
+<script src="lightbox-plus-jquery.js"></script>
+<style>
+    body {
+      background: #111;
+      color: white;
+      font-family: Georgia, serif;
+      margin: 0;
+    }
+    header {
+      text-align: center;
+      padding: 40px 10px 20px;
+    }
+    header h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+    .section {
+      padding: 10px 20px;
+    }
+    .section h2 {
+      border-bottom: 1px solid #444;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    .gallery img {
+      width: 160px;
+      height: auto;
+      border-radius: 6px;
+      background: #333;
+      cursor: pointer;
+    }
+    .more {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 6px;
+    }
+    .more a {
+      color: #aaa;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      border-top: 1px solid #444;
+      font-size: 14px;
+      color: #888;
+    }
+    footer a {
+      color: #888;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+  </style>
+<link href="https://g40.pages.dev/custom_homepage_template.html" rel="canonical"/><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Sample Page",
+  "description": "Auto SEO Fixer Page"
+}</script></head>
+<body><script>
+if(!window.__nbJadsLoaded){
+  var s=document.createElement('script');
+  s.async=true; s.setAttribute('data-cfasync','false');
+  s.src='https://poweredby.jads.co/js/jads.js';
+  s.onload=function(){window.__nbJadsLoaded=1;};
+  (document.head||document.documentElement).appendChild(s);
+}
+</script>
+<!-- ✅ 横幅广告（推荐） -->
+<div style="text-align:center; margin: 20px 0;">
+<script type="text/javascript">
+    atOptions = {
+      'key' : '7c6cdfb3b82b69824581cd2127858d0e',
+      'format' : 'iframe',
+      'height' : 90,
+      'width' : 728,
+      'params' : {}
+    };
+  </script>
+<script src="//www.highperformanceformat.com/7c6cdfb3b82b69824581cd2127858d0e/invoke.js" type="text/javascript"></script>
+</div>
+<header>
+<h1>Gentleman’s Frame</h1>
+<p>For Men Who Appreciate More Than Beauty.</p>
+</header>
+<!-- 分类图集内容占位符 -->
+<!-- {category_blocks} -->
+<div class="section"></div>
+<footer>
+<a href="about.html">About Us</a> | 
+  <a href="privacy.html">Privacy Policy</a> | 
+  <a href="contact.html">Contact</a>
+</footer>
+<script src="ads.js"></script><script src="ads.js"></script>
+<ins data-height="100" data-width="300" id="1098991"></ins>
+<script async="" data-cfasync="false" type="text/javascript">
+  setTimeout(function(){
+    (window.adsbyjuicy=window.adsbyjuicy||[]).push({'adzone': 1098991 });
+  }, 599);
+<\/script>
+<script>
+(function(){
+  var MINW=1280, HOURS=6, KEY='nb_float_last';
+  function recent(ts,h){try{return (Date.now()-parseInt(ts||0))<h*3600*1000;}catch(e){return false;}}
+  function load(){
+    window.juicy_adzone='1098993';
+    var s=document.createElement('script'); s.src='https://poweredby.jads.co/js/jfc.js'; s.async=true;
+    document.body.appendChild(s);
+    try{ localStorage.setItem(KEY, Date.now().toString()); }catch(e){}
+  }
+  if (window.innerWidth>=MINW){
+    var last=null; try{last=localStorage.getItem(KEY);}catch(e){}
+    if(!recent(last,HOURS)) setTimeout(load, 621);
+  }
+})();
+</script>
+<script>
+(function(){
+  var MINW=1280, HOURS=24, KEY='nb_pop_last';
+  function recent(ts,h){try{return (Date.now()-parseInt(ts||0))<h*3600*1000;}catch(e){return false;}}
+  function fire(){
+    var s=document.createElement('script'); s.src='https://js.juicyads.com/jp.php?c=4464w223v254u4r2o2f403d4a4&u=https%3A%2F%2Fwww.juicyads.rocks'; s.async=true;
+    document.body.appendChild(s);
+    try{ localStorage.setItem(KEY, Date.now().toString()); }catch(e){}
+    unbind();
+  }
+  function tryFire(){
+    var last=null; try{last=localStorage.getItem(KEY);}catch(e){}
+    if(window.innerWidth<MINW||recent(last,HOURS)) return;
+    fire();
+  }
+  function unbind(){document.removeEventListener('click',on);document.removeEventListener('keydown',on);document.removeEventListener('touchstart',on);}
+  function on(){ tryFire(); }
+  if (true) {
+    document.addEventListener('click',on,{passive:true,once:false});
+    document.addEventListener('keydown',on,{passive:true,once:false});
+    document.addEventListener('touchstart',on,{passive:true,once:false});
+  } else {
+    setTimeout(tryFire, 730);
+  }
+})();
+</script>
+<script>
+(function(){
+  var MAXW=1024, HOURS=6, KEY='nb_sticky_last', H=100;
+  function recent(ts,h){try{return (Date.now()-parseInt(ts||0))<h*3600*1000;}catch(e){return false;}}
+  function ensureLoader(cb){
+    if(window.__nbJadsLoaded) return cb();
+    var s=document.createElement('script');
+    s.async=1; s.setAttribute('data-cfasync','false'); s.src='https://poweredby.jads.co/js/jads.js';
+    s.onload=function(){window.__nbJadsLoaded=1; cb();};
+    (document.head||document.documentElement).appendChild(s);
+  }
+  function mount(){
+    var wrap=document.createElement('div');
+    wrap.id='nb-sticky-ad';
+    wrap.style.cssText='position:fixed;left:0;right:0;bottom:0;z-index:2147483600;background:#111;border-top:1px solid #222;padding:6px 0;display:flex;justify-content:center;align-items:center';
+    var close=document.createElement('button');
+    close.innerHTML='×'; close.setAttribute('aria-label','Close ad');
+    close.style.cssText='position:absolute;right:8px;top:6px;background:transparent;border:0;color:#bbb;font-size:20px;line-height:20px;cursor:pointer';
+    close.onclick=function(){try{localStorage.setItem(KEY, Date.now().toString());}catch(e){}; unmount();};
+    var box=document.createElement('div'); box.style.cssText='width:320px;max-width:100%;display:flex;justify-content:center';
+    var ins=document.createElement('ins'); ins.id='1098991'; ins.setAttribute('data-width','300'); ins.setAttribute('data-height','100');
+    box.appendChild(ins); wrap.appendChild(close); wrap.appendChild(box);
+    document.body.appendChild(wrap);
+    // 防遮挡：给 body 增加底部内边距
+    var prevPad = document.body.style.paddingBottom;
+    document.body.setAttribute('data-nb-prevpad', prevPad||'');
+    document.body.style.paddingBottom = (H+12)+'px';
+    // 加载广告
+    ensureLoader(function(){ (window.adsbyjuicy=window.adsbyjuicy||[]).push({'adzone': 1098991 }); });
+  }
+  function unmount(){
+    var el=document.getElementById('nb-sticky-ad'); if(el) el.remove();
+    var prev = document.body.getAttribute('data-nb-prevpad'); document.body.style.paddingBottom = prev;
+  }
+  function boot(){
+    var last=null; try{last=localStorage.getItem(KEY);}catch(e){}
+    if (window.innerWidth < MAXW && !recent(last,HOURS)) setTimeout(mount, 671);
+  }
+  boot();
+  window.addEventListener('resize', function(){ if(window.innerWidth>=MAXW) unmount(); }, {passive:true});
+})();
+</script></body>
+</html>
