@@ -14,7 +14,7 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, soft woman meaning, soft aesthetic clothes, high contrast monochrome, long wavy hair, lace trim outfit, muted cinematic tones, neutral pastel tones, sensual vibe, elegant posture, tasteful composition",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, soft woman names, soft photo album for baby, soft photo frame, soft aesthetic names, warm golden feel, wet hair look, short denim shorts, muted cinematic tones, neutral pastel tones, sensual vibe, elegant posture, tasteful composition",
   "negative_prompt": "lowres, poor detail, cartoon, overexposure, blur, ugly hands, off-center, messy hair",
   "output_dir": "../soft",
   "category": "soft"
